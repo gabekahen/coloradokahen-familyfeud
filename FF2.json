@@ -1,56 +1,266 @@
 ﻿{
     "Name something that a man had better not take along on his honeymoon": [
         [
-            "Answer 1",
-            100
+            "Another woman",
+            20
+        ],
+        [
+            "Dog",
+            2
+        ],
+        [
+            "Porn",
+            4
+        ],
+        [
+            "Video games",
+            10
+        ],
+        [
+            "Work",
+            5
         ]
     ],
     "Name an activity that a couple does on their honeymoon": [
         [
-            "Answer 1",
-            100
+            "Make love",
+            19
+        ],
+        [
+            "Rest",
+            8
+        ],
+        [
+            "Sightseeing / Travel",
+            9
+        ],
+        [
+            "Eat / Drink",
+            5
+        ],
+        [
+            "Kiss",
+            2
+        ],
+        [
+            "Chores / Logistics",
+            3
         ]
     ],
-    "Name something you might bring to a wedding.": [
+    "Name something you wouldn’t want to have happen while giving a speech": [
         [
-            "Answer 1",
-            100
+            "Burp",
+            5
+        ],
+        [
+            "Audience interrupts",
+            7
+        ],
+        [
+            "Flatulence",
+            9
+        ],
+        [
+            "Medical emergency",
+            12
+        ],
+        [
+            "Vomit / sneeze",
+            5
+        ],
+        [
+            "Wardrobe malfunction",
+            4
+        ],
+        [
+            "An audience",
+            3
+        ]
+    ],
+    "Name something you might bring to a wedding": [
+        [
+            "Gift",
+            16
+        ],
+        [
+            "Plus one",
+            8
+        ],
+        [
+            "Nice shoes",
+            5
+        ],
+        [
+            "Camera",
+            3
+        ],
+        [
+            "Sentiment",
+            9
+        ],
+        [
+            "Alcohol",
+            2
+        ],
+        [
+            "Accessories",
+            3
         ]
     ],
     "What could get you kicked out of a wedding?": [
         [
-            "Answer 1",
-            100
+            "Drinking too much",
+            13
+        ],
+        [
+            "No invitation",
+            3
+        ],
+        [
+            "Interrupting the ceremony",
+            10
+        ],
+        [
+            "Fighting",
+            7
+        ],
+        [
+            "Kissing the bride / groom",
+            7
+        ],
+        [
+            "Bringing an animal / pet",
+            3
+        ],
+        [
+            "Inappropriate dress",
+            2
         ]
     ],
     "What word or phrase should a man practice saying before getting married?": [
         [
-            "Answer 1",
-            100
+            "I do",
+            8
+        ],
+        [
+            "I love you",
+            7
+        ],
+        [
+            "You're right",
+            8
+        ],
+        [
+            "Yes, dear",
+            8
+        ],
+        [
+            "As you wish / Whatever you want",
+            9
+        ],
+        [
+            "I'm sorry",
+            4
         ]
     ],
     "What is something you would not put in your wedding vows?": [
         [
             "Answer 1",
             100
+        ]
+    ],
+    "What should you never say at a wedding?": [
+        [
+            "It won't last",
+            9
+        ],
+        [
+            "Insult the bridal party",
+            4
+        ],
+        [
+            "I object / Stop!",
+            8
+        ],
+        [
+            "Talk about divorce",
+            4
+        ],
+        [
+            "Bride / groom changes their mind",
+            8
+        ],
+        [
+            "Talk about infidelity",
+            3
+        ],
+        [
+            "Don't get married",
+            4
+        ],
+        [
+            "Complain about the party",
+            6
         ]
     ],
     "What is something you will never find at a wedding?": [
         [
-            "Answer 1",
-            100
+            "Creatures / monsters",
+            11
+        ],
+        [
+            "Unhappiness / disappointment",
+            8
+        ],
+        [
+            "Divorce papers",
+            2
+        ],
+        [
+            "Sobriety",
+            6
+        ],
+        [
+            "Funeral items",
+            3
+        ],
+        [
+            "Formal lovers",
+            4
+        ],
+        [
+            "Medieval artifacts",
+            2
+        ],
+        [
+            "Unaffiliated persons",
+            2
         ]
     ],
     "What is a reason you might cry on your wedding day?": [
         [
-            "Answer 1",
-            100
-        ]
-    ],
-    "What is something you would not put in your wedding vows?": [
+            "Happiness",
+            22
+        ],
         [
-            "Answer 1",
-            100
+            "Logistical problems",
+            8
+        ],
+        [
+            "Illness or injury",
+            5
+        ],
+        [
+            "Wardrobe malfunction",
+            5
+        ],
+        [
+            "Change your mind",
+            5
+        ],
+        [
+            "Forgot something",
+            3
         ]
     ]
 }
