@@ -5,20 +5,20 @@
             20
         ],
         [
-            "Dog",
-            2
-        ],
-        [
-            "Porn",
-            4
-        ],
-        [
             "Video games",
             10
         ],
         [
             "Work",
             5
+        ],
+        [
+            "Porn",
+            4
+        ],
+        [
+            "Dog",
+            2
         ]
     ],
     "Name an activity that a couple does on their honeymoon": [
@@ -27,42 +27,42 @@
             19
         ],
         [
-            "Rest",
-            8
-        ],
-        [
             "Sightseeing / Travel",
             9
+        ],
+        [
+            "Rest",
+            8
         ],
         [
             "Eat / Drink",
             5
         ],
         [
-            "Kiss",
-            2
-        ],
-        [
             "Chores / Logistics",
             3
+        ],
+        [
+            "Kiss",
+            2
         ]
     ],
     "Name something you wouldn’t want to have happen while giving a speech": [
         [
-            "Burp",
-            5
-        ],
-        [
-            "Audience interrupts",
-            7
+            "Medical emergency",
+            12
         ],
         [
             "Flatulence",
             9
         ],
         [
-            "Medical emergency",
-            12
+            "Audience interrupts",
+            7
+        ],
+        [
+            "Burp",
+            5
         ],
         [
             "Vomit / sneeze",
@@ -83,6 +83,10 @@
             16
         ],
         [
+            "Sentiment",
+            9
+        ],
+        [
             "Plus one",
             8
         ],
@@ -95,26 +99,18 @@
             3
         ],
         [
-            "Sentiment",
-            9
+            "Accessories",
+            3
         ],
         [
             "Alcohol",
             2
-        ],
-        [
-            "Accessories",
-            3
         ]
     ],
     "What could get you kicked out of a wedding?": [
         [
             "Drinking too much",
             13
-        ],
-        [
-            "No invitation",
-            3
         ],
         [
             "Interrupting the ceremony",
@@ -129,6 +125,10 @@
             7
         ],
         [
+            "No invitation",
+            3
+        ],
+        [
             "Bringing an animal / pet",
             3
         ],
@@ -139,12 +139,12 @@
     ],
     "What word or phrase should a man practice saying before getting married?": [
         [
-            "I do",
-            8
+            "As you wish / Whatever you want",
+            9
         ],
         [
-            "I love you",
-            7
+            "I do",
+            8
         ],
         [
             "You're right",
@@ -155,18 +155,12 @@
             8
         ],
         [
-            "As you wish / Whatever you want",
-            9
+            "I love you",
+            7
         ],
         [
             "I'm sorry",
             4
-        ]
-    ],
-    "What is something you would not put in your wedding vows?": [
-        [
-            "Answer 1",
-            100
         ]
     ],
     "What should you never say at a wedding?": [
@@ -175,32 +169,32 @@
             9
         ],
         [
-            "Insult the bridal party",
-            4
-        ],
-        [
             "I object / Stop!",
             8
-        ],
-        [
-            "Talk about divorce",
-            4
         ],
         [
             "Bride / groom changes their mind",
             8
         ],
         [
-            "Talk about infidelity",
-            3
+            "Complain about the party",
+            6
+        ],
+        [
+            "Insult the bridal party",
+            4
+        ],
+        [
+            "Talk about divorce",
+            4
         ],
         [
             "Don't get married",
             4
         ],
         [
-            "Complain about the party",
-            6
+            "Talk about infidelity",
+            3
         ]
     ],
     "What is something you will never find at a wedding?": [
@@ -213,20 +207,20 @@
             8
         ],
         [
-            "Divorce papers",
-            2
-        ],
-        [
             "Sobriety",
             6
+        ],
+        [
+            "Formal lovers",
+            4
         ],
         [
             "Funeral items",
             3
         ],
         [
-            "Formal lovers",
-            4
+            "Divorce papers",
+            2
         ],
         [
             "Medieval artifacts",
@@ -261,6 +255,12 @@
         [
             "Forgot something",
             3
+        ]
+    ],
+    "What is something you would not put in your wedding vows?": [
+        [
+            "Answer 1",
+            100
         ]
     ]
 }
