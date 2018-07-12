@@ -215,19 +215,15 @@
             4
         ],
         [
-            "Funeral items",
-            3
+            "Medieval / Funerary items",
+            5
         ],
         [
             "Divorce papers",
             2
         ],
         [
-            "Medieval artifacts",
-            2
-        ],
-        [
-            "Unaffiliated persons",
+            "Celebrities / Unaffiliated persons",
             2
         ]
     ],
@@ -255,12 +251,6 @@
         [
             "Forgot something",
             3
-        ]
-    ],
-    "What is something you would not put in your wedding vows?": [
-        [
-            "Answer 1",
-            100
         ]
     ]
 }
